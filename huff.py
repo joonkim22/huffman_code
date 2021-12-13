@@ -1,3 +1,5 @@
+# My first python program. In hindsight, could be made better using min-heap but the python heapq library isn't the most clear/intuitive.
+
 data = [
 	[0.20, 'x1'],
 	[0.15, 'x2'],
